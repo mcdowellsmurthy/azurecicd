@@ -23,4 +23,4 @@ steps:
     organization: 'mcdowellsmurthy'
     scannerMode: 'dotnet'
     projectKey: 'mcdowellsmurthy_azurecicd'
-    projectName: 'azurecicd'
+    projectName: 'vineela.azurecicd'
